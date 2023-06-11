@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [PHRAZ_L](https://team2-front.vercel.app/)
 
-- 🌱 I’m currently learning **React, Rust, and Bash scripting**
+- 🌱 learning **React, Rust, and Bash scripting**
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://alejandro-patino-portfolio.netlify.app/)
 
