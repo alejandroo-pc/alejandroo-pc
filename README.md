@@ -1,6 +1,5 @@
-<h1 align="center">Hey, I'm Alejandro</h1>
-<h3 align="center">I'm a passionate software developer based in California</h3>
-
+<h1 align="center">Hey, I'm Alejandro</h1
+                                       
 - 🔭 I’m currently working on [PHRAZ_L](https://team2-front.vercel.app/)
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://alejandro-patino-portfolio.netlify.app/)
