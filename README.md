@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Alejandro</h1>
 <h3 align="center">I'm a passionate software developer based in California</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandro-patino-camargo&label=Profile%20views&color=0e75b6&style=flat" alt="alejandro-patino-camargo" /> </p>
-
 - 🔭 I’m currently working on [PHRAZ_L](https://team2-front.vercel.app/)
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://alejandro-patino-portfolio.netlify.app/)
