@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Alejandro</h1
+<h1 align="center">Hey, I'm Alejandro</h1>
                                        
 - 🔭 I’m currently working on [PHRAZ_L](https://team2-front.vercel.app/)
 
