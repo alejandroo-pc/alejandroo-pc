@@ -4,13 +4,13 @@
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://alejandro-patino-portfolio.netlify.app/)
 
-- 💬 Ask me about **my NeoVim workflow**
+- 💬 Ask me about my **NeoVim** workflow
 
 - 📫 Reach me at **alejandropatinoc@gmail.com** or [linkedIn](https://www.linkedin.com/in/alejandropatinoc/)
 
 - 📄 Know about my experiences: [resume](https://alejandro-patino-portfolio.netlify.app/Alejandros-Resume.pdf)
 
-- 🎧 Fun fact **I play music as a DJ**
+- 🎧 Fun fact I play music as a **DJ**
 
 
 ### Languages and Tools:
