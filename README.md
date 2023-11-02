@@ -2,7 +2,7 @@
                                        
 - 🔭 I’m currently working on [PHRAZ_L](https://team2-front.vercel.app/)
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://alejandro-patino-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available on my [portfolio](https://alejandropatino.io)
 
 - 💬 Ask me about my **NeoVim** workflow
 
