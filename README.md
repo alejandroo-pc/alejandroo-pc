@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Alejandro</h1>
                                        
-- 🔭 I’m currently working on [SkillStack](https://github.com/Code-the-Dream-School/ee-prac-team4-front)
+- 🔭 I’m currently working on [SkillStack](https://ee-prac-team4-front.vercel.app/)
 
 - 👨‍💻 All of my projects are available on my [portfolio](https://alejandropatino.io)
 
