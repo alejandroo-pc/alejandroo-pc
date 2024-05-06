@@ -1,8 +1,9 @@
 <h1 align="center">Hey, I'm Alejandro</h1>
                                        
-- 🔭 I’m currently working on [SkillStack](https://ee-prac-team4-front.vercel.app/)
+- 🔭 I’m a open source volunteer at [Code For San Jose](https://opensourcesanjose.org/)
+    - Currently working on [TallyUP](https://github.com/codeforsanjose/TallyUp/tree/main) 
 
-- 👨‍💻 All of my projects are available on my [portfolio](https://alejandropatino.io)
+- 👨‍💻 My projects are available on my [portfolio](https://alejandropatino.io)
 
 - 💬 Ask me about my [NeoVim](https://github.com/Alejandro-Patino-Camargo/nvim-config) workflow
 
