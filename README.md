@@ -8,7 +8,32 @@ Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
 - 💬 Ask me about my [NeoVim](https://github.com/Alejandro-Patino-Camargo/nvim-config) workflow
 - 📫 Reach me at [linkedIn](https://www.linkedin.com/in/alejandropatinoc/)
 
-### GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandroo-pc&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=alejandroo-pc&theme=gotham&hide_border=true)<br/>
+```mermaid
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#E3ECFD',
+      'tertiaryColor': '#F0F5FE'
+    }
+  }
+}%%
+graph TD;
+    subgraph Programming_Languages
+        A[JavaScript] --> B[React]
+        C[TypeScript] --> B[React]
+        D[Bash] --> E[Ubuntu]
+    end
+
+    subgraph Development_Tools_Libraries
+        F[Node.js] --> G[MongoDB]
+        H[Express.js] --> G[MongoDB]
+        I[Postman] --> J[REST API]
+    end
+    
+    subgraph Design_Tools
+        K[Figma] 
+        L[Jira]
+        M[Notion]
+    end
+```
