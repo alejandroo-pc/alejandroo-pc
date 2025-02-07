@@ -30,10 +30,4 @@ graph TD;
         H[Express.js] --> G[MongoDB]
         I[Postman] --> J[REST API]
     end
-    
-    subgraph Design_Tools
-        K[Figma] 
-        L[Jira]
-        M[Notion]
-    end
 ```
