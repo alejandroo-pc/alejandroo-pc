@@ -14,8 +14,7 @@ Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
     'theme': 'base',
     'themeVariables': {
       'primaryColor': '#E3ECFD',
-      'tertiaryColor': '#F0F5FE',
-      'darkMode': 'true'
+      'tertiaryColor': '#F0F5FE'
     }
   }
 }%%
