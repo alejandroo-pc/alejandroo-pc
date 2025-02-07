@@ -9,15 +9,7 @@ Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
 - 📫 Reach me at [linkedIn](https://www.linkedin.com/in/alejandropatinoc/)
 
 ```mermaid
-%%{
-  init: {
-    'theme': 'base',
-    'themeVariables': {
-      'primaryColor': '#E3ECFD',
-      'tertiaryColor': '#F0F5FE'
-    }
-  }
-}%%
+%%{init: {'theme':'base'}, 'flowchart': {'navigation': false}}%%
 graph TD;
     subgraph Programming_Languages
         A[JavaScript] --> B[React]
