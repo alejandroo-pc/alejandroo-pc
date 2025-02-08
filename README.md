@@ -18,7 +18,6 @@ gitGraph
    commit id: "Node.js" tag: "on the job"
    commit id: "Express.js"
    commit id: "MongoDB"
-   commit id: "Airtable API"
    commit id: "Next.js"
    branch Frontend
    merge main
