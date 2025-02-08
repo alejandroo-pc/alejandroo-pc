@@ -9,6 +9,7 @@ Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
 - 📫 Reach me at [linkedIn](https://www.linkedin.com/in/alejandropatinoc)
 
 ``` mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'base', 'gitGraph': {'showBranches': false}} }%%
 gitGraph
    commit id: "Javascript"
    commit id: "Typescript"
