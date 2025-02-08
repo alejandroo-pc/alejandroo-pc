@@ -7,3 +7,5 @@ Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
 - 👨‍💻 My projects are available on my [portfolio](https://alejandropatino.io)
 - 💬 Ask me about my [NeoVim](https://github.com/Alejandro-Patino-Camargo/nvim-config) workflow
 - 📫 Reach me at [linkedIn](https://www.linkedin.com/in/alejandropatinoc)
+
+![](https://raw.githubusercontent.com/alejandroo-pc/github-stats-transparent/output/generated/languages.svg)
