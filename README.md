@@ -21,7 +21,6 @@ gitGraph
    commit id: "MongoDB"
    commit id: "Next.js"
    branch Frontend
-   merge main
    commit id: "Figma"
    commit id: "React"
    commit id: "MUI"
