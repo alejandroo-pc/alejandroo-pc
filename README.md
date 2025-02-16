@@ -1,4 +1,4 @@
-### Hey there 👋, I'm Alejandro
+## Hey there 👋, I'm Alejandro
 
 Full Stack developer at [Code The Dream](https://codethedream.org) <br>
 Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
