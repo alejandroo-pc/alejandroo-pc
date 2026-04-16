@@ -5,6 +5,7 @@ Volunteer at [Open Source San Jose](https://opensourcesanjose.org/)
 - 👨🏽‍💻  My projects are available on my [portfolio](https://alejandropatino.io)
 - 💬 Ask me about my [NeoVim](https://github.com/Alejandro-Patino-Camargo/nvim-config) workflow
 - 📫 Reach me at [linkedIn](https://www.linkedin.com/in/alejandropatinoc)
+- 📆 [Schedule a call](https://cal.com/alejandropatinoc/30min?duration=30)
 
 I enjoy exploring and mastering a wide range of technologies <br>
 Here's a glimpse into my current arsenal:
