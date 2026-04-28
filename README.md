@@ -15,4 +15,4 @@ Here's a glimpse into my current arsenal:
 | JavaScript | React | Node.js | MongoDB | Git |
 | TypeScript | Next.js | Express.js | PostgreSQL | Linear |
 | Python | React Native | Docker | Redis | Figma |
-| Java | Redux | Nginx | MySQL | Jira |
+| Java | HTML | Nginx | MySQL | Jira |
